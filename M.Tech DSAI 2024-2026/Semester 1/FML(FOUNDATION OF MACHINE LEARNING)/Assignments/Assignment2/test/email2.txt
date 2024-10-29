@@ -1,0 +1,15 @@
+
+Hi,
+
+We could not process your request to upload your resume, as the information in your resume did not match information in your shine profile, please resend with matching information & from your registered email id.
+You can also update your resume by logging onto Shine.com.
+
+Please ensure that your resume/cv file fulfills the criteria mentioned below:
+1. Supported formats - PDF, DOC, DOCX, RTX, TXT files.
+2. File size should not exceed 5 MB.
+3. We cannot upload resumes directly from google-drive/drop-box links.
+
+Please ensure that your resume contains the same Name, Email ID or Mobile Number as mentioned in your Shine profile.
+
+Regards,
+Shine
